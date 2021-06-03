@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be ministred, enquired of, and answered in the visitation of the Right Worshipfull Richard Fitzharbert, Master of Arts, and Archdeacon of Dorset, 1624</title>
+            <author>Church of England. Archdeaconry of Dorset.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00174</idno><idno type="EEBO-CITATION">24402783</idno>
+  <idno type="VID">27641</idno>
+  <idno type="EEBO-PROQUEST">2264219382</idno>
+  <idno type="STC">STC 10192.5</idno>
+  <idno type="STC">ESTC S2636</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:77)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be ministred, enquired of, and answered in the visitation of the Right Worshipfull Richard Fitzharbert, Master of Arts, and Archdeacon of Dorset, 1624</title>
+                  <author>Church of England. Archdeaconry of Dorset.</author>
+                  <author>Fitzharbert, Richard.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Eliot's Court Press],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁴ B².</note>
+                  <note>Reproduction of original in the Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27641:1"/>
+            <pb facs="tcp:27641:1"/>
+            <p>ARTICLES TO BE MINISTRED, ENQVIRED OF, AND answered in the Visitation of the Right Worshipfull <hi>Richard Fitzharbert,</hi> Ma<g ref="char:EOLhyphen"/>ster of Arts, and Archdeacon of <hi>Dorset.</hi> 1624.</p>
+            <p>❧ <hi>Jmprinted at London.</hi> 1624.</p>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:27641:2"/>
+            <head>The tenour of the Oath to be <hi>mini<g ref="char:EOLhyphen"/>stred to the Church-wardens and Sworne-men.</hi>
+            </head>
+            <p>YOV shall sweare, that all affection, fauour, hatred, hope of reward and gaine, or feare of displeasure, or malice set aside, you shall vpon due consideration of the Articles giuen you in charge, present all and euery such person of, or within your Parish, as hath committed any offence mentioned in these, or any of these Articles, or which are vehemently suspected, or defamed of any such offence: wherein you shall discharge your consciences vprightly, and according to truth, neither of malice pre<g ref="char:EOLhyphen"/>senting any contrary to truth, nor of corrupt affection spa<g ref="char:EOLhyphen"/>ring to present any, and so conceale the truth: hauing in this action God before your eyes, with an earnest zeale to maintaine truth and suppresse vice. So helpe you God, and by the Contents of this Booke.</p>
+            <closer>God saue the King.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_visitation">
+            <pb facs="tcp:27641:2"/>
+            <head>Articles to be ministred, inquired of, and answered in the Visitation of the right Worship<g ref="char:EOLhyphen"/>full RICHARD FITZHARBERT, Master of Arts, and Arch-Deacon of <hi>Dorset.</hi> 1624.</head>
+            <p>
+               <label>Booke of Ca<g ref="char:EOLhyphen"/>nons.</label>
+               <hi>
+                  <seg rend="decorInit">I</seg>Nprimis,</hi> Whether haue you in your seuerall Churches and Chappels, the booke of Constitutions or Canons Ec<g ref="char:EOLhyphen"/>clesiasticall, ready to be read by your Minister, according to his Maiesties pleasure, published by his Highnesse authority, vnder the great Seale of <hi>England:</hi> and whether hath your Mi<g ref="char:EOLhyphen"/>nister read the same or any part thereof vpon Sundaies and Holidaies in the afternoone before Diuine Seruice according<g ref="char:EOLhyphen"/>ly, yea or not?</p>
+            <p n="2">
+               <label>Articles of Religion.</label>
+               <hi>2</hi> Item, whether is there any in your Parish, that doth im<g ref="char:EOLhyphen"/>pugne any of the Articles of Religion, agréed vpon in <hi>Anno 1562.</hi> and established in the Church of <hi>England?</hi>
+            </p>
+            <p n="3">
+               <hi>3</hi> Item, whether doth your Minister vse to pray for the Kings Maiestie, King <hi>Iames,</hi> Prince <hi>Charles, Fredericke</hi> the Prince Elector Palatine, with the Lady <hi>Elizabeth</hi> his wife, and all their royall Progeny, with addition of such stile and ti<g ref="char:EOLhyphen"/>tles, as are due and appertaining to his Maiestie, and exhort the people to obedience to his Highnesse? And whether doth he pray for the Lords of his Maiesties most Honourable Counsell, and for all other Magistrates being in authority vnder him?</p>
+            <p n="4">
+               <hi>4</hi> Item, whether doth he pray for the Ministers of Gods holy Word and Sacraments, aswell Arch-Bishops and Bi<g ref="char:EOLhyphen"/>shops, as other Pastors and Curates?</p>
+            <p n="5">
+               <label>Impugne the Rites or Ce<g ref="char:EOLhyphen"/>remonies.</label>
+               <hi>5</hi> Item whether is there any in your parish, that impug<g ref="char:EOLhyphen"/>neth or speaketh against the Rites and Ceremonies establi<g ref="char:EOLhyphen"/>shed in the Church of England, or the lawfull vse of them? you shall present their names.</p>
+            <p n="6">
+               <pb facs="tcp:27641:3"/>
+               <label>Impugne the Church go<g ref="char:EOLhyphen"/>uernment.</label>
+               <hi>6</hi> Item, are there any in your parish that doe impugne the gouernment of the church of England, vnder the Kings most excellent Maiestie by Arch-bishops, Bishops, Deanes, Arch<g ref="char:EOLhyphen"/>deacons, and the rest that beare office in the same; affirming that the same is Antichristian or repugnant to the word of God?</p>
+            <p n="7">
+               <label>Prophaning the Sabbath.</label>
+               <hi>7</hi> Item, whether any persons haue lurked and tippled in Tauernes or Ale-houses on Sundaies or other Holidaies, or vsed his or their manuall craft or trade vpon the said daies, or otherwise prophaned them, or any of them, in any sort, and especially in the time of Diuine Seruice?</p>
+            <p n="8">
+               <label>Prescript forme of Di<g ref="char:EOLhyphen"/>uine Seruice.</label>
+               <hi>8</hi> Item, whether is the prescript forme of diuine Seruice vsed by your Minister vpon Sundaies and Holidaies, accor<g ref="char:EOLhyphen"/>ding to the booke of common Praier: and whether doth your Minister duely obserue all the orders, rites, and ceremonies prescribed in the said booke of common Praier, as well in reading publike prayers, the Letany, as also in administring the Sacraments in such manner and forme as in the booke of common Praier is inioyned?</p>
+            <p n="9">
+               <label>Brawling in Church or Church-yard.</label>
+               <hi>9</hi> Item, whether hath any person in your parish quarrelled or stricken, or vsed any violence vnto, or with your Minister, or any other in your Church or church-yard, or vsed himselfe disorderly in the Church, by filthy and prophane talke, or any other rude and immodest behauiour?</p>
+            <p n="10">
+               <label>Reuerence in time of diuine Seruice.</label>
+               <hi>10</hi> Item, whether is that due reuerence and humble sub<g ref="char:EOLhyphen"/>mission vsed within your church or chappell in the time of diuine seruice, as by the <hi>18.</hi> Constitution is prescribed: whe<g ref="char:EOLhyphen"/>ther each one in the church or chappell doe apply and order himselfe there in time of diuine Seruice as by the latter part of the same Constitution is most commendably inioyned?</p>
+            <p n="11">
+               <label>Bread and Wine at the Communion.</label>
+               <hi>11</hi> Item, whether the Church-wardens doe prouide against euery Communion, with the aduice of the Minister, a suffici<g ref="char:EOLhyphen"/>ent quantitie of fine white bread, and of good and wholesome wine for the number of the communicants that shall receiue, and that to be brought in a cleane and swéet standing pot of pewter or of other pure metall?</p>
+            <p n="12">
+               <label>Ministring &amp; receiuing of the Commu<g ref="char:EOLhyphen"/>nion.</label>
+               <hi>12</hi> Item, whether doth your Minister administer the holy Communion so often, and at such time, as that euery parishi<g ref="char:EOLhyphen"/>oner may receiue the same at least thrice in euery yéere, where<g ref="char:EOLhyphen"/>of
+<pb facs="tcp:27641:3"/>once at Easter, as by the booke of Common Prayer is ap<g ref="char:EOLhyphen"/>pointed: and whether doth your Minister receiue the same himselfe on euery day, before that he administreth it to others, and vse the words of the institution according to the booke at euery time that the bread or wine is renewed, in such manner and forme, as by the prouiso of the <hi>21.</hi> Canon is directed, or wherein he is faultie: and whether is warning giuen by him before hand for the communion, as the <hi>22.</hi> Canon re<g ref="char:EOLhyphen"/>quireth?</p>
+            <p n="13">
+               <label>Kneeling at the Commu<g ref="char:EOLhyphen"/>nion.</label>
+               <hi>13</hi> Whether doth your Minister administer the said Com<g ref="char:EOLhyphen"/>munion to any that doth not humbly knéele at the receiuing of the same? what are the names of them that refuse to kneele at the receiuing thereof?</p>
+            <p n="14">
+               <label>Offenders not to be ad<g ref="char:EOLhyphen"/>mitted.</label>
+               <hi>14</hi> Item, whether hath your Minister admitted any noto<g ref="char:EOLhyphen"/>rious offenders or schismatickes to the Communion, contrary to the <hi>26.</hi> and <hi>27.</hi> Constitutions?</p>
+            <p n="15">
+               <label>No strangers to be admit<g ref="char:EOLhyphen"/>ted.</label>
+               <hi>15</hi> Item, whether the Minister together with the Church-wardens and Questmen, doe take diligent héed and care, not only that all and euery your owne parishioners doe receiue thrice in euery yéere as aforesaid, but also that no strangers of any other Parish doe come often and commonly to your Church from their owne parish Church: and you are now to present the names of all those, who being sixtéene yéeres of age or vpwards, haue not in their owne Parish receiued the Communion, at or since Easter last.</p>
+            <p n="16">
+               <label>Signe of the Crosse. Refuse to Baptize.</label>
+               <hi>16</hi> Item, whether doth your Minister vse to signe the children with the signe of the Crosse when they are baptized, according to the booke of Common Praier: and whether he hath deferred, or wilfully refused to baptize any infant in his Parish being in danger, hauing béene duely informed of the weaknesse thereof: and whether the childe hath died in his default without baptisme: or whether hath he at any time refused or neglected to burie the dead, or to minister the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper to any being in extremity of sicknesse, hauing béene required thereunto?</p>
+            <p n="17">
+               <label>Residencie.</label>
+               <hi>17</hi> Item, whether is your Minister continually resident with you vpon his Benefice, or for how long time hath he bin absent: and where is he resident for the most part, and what other Benefice hath he?</p>
+            <p n="18">
+               <pb facs="tcp:27641:4"/>
+               <label>Preaching ac<g ref="char:EOLhyphen"/>cording to the Canons.</label>
+               <hi>18</hi> Item, whether doth your Minister preach vsually, ac<g ref="char:EOLhyphen"/>cording to the constitutions, either in his owne Cure with you, or else in some other Church or Chappell néere adioyning, where no Preacher is: or how oft hath he béene negligent in that behalfe?</p>
+            <p n="19">
+               <label>More Cures <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>han one.</label>
+               <hi>19</hi> Item, whether doth your Minister or Curate serue any more Cures than one: if yea, then what other Cure doth he serue?</p>
+            <p n="20">
+               <label>Licensed to preach.</label>
+               <hi>20</hi> Item, if your Minister be not licensed to preach, who<g ref="char:EOLhyphen"/>ther doth he take vpon him to expound the Scriptures, either in his owne Cure or elsewhere?</p>
+            <p n="21">
+               <label>None to preach but licensed.</label>
+               <hi>21</hi> Item, whether hath any person béene admitted to preach within your church or chappell, but such as you haue well knowne to be sufficiently licensed?</p>
+            <p n="22">
+               <label>Preaches to read Seruice, &amp;c. twice a yeere.</label>
+               <hi>22</hi> Item, whether doth your Lecturer and Preacher, your Parson or Vicar, read diuine seruice, and administer the Sa<g ref="char:EOLhyphen"/>craments in his owne person twice euery yéere; obseruing all the ceremonies in the booke of Common praier established?</p>
+            <p n="23">
+               <label>Not to refuse the Commu<g ref="char:EOLhyphen"/>nion because the Minister is no Prea<g ref="char:EOLhyphen"/>cher.</label>
+               <hi>23</hi> Item, is there any in your Parish that refuse to haue their children baptized, or themselues to receiue the Commu<g ref="char:EOLhyphen"/>nion at the hands of your Minister, because he is no Preacher? you shall present their names. And if your Minister, sithence the publishing of the said Booke of Canons, hath receiued any such persons (being not of his owne Cure) to the Commu<g ref="char:EOLhyphen"/>nion, or baptized any of their children, you shall likewise pre<g ref="char:EOLhyphen"/>sent him.</p>
+            <p n="24">
+               <hi>24</hi> Item, whether are there any priuate méetings, assem<g ref="char:EOLhyphen"/>blies, or conuenticles, either by day or by night, vsed or had within the Parish by any Minister, or Ministers, or any Lay-persons tending to faction and schisme? Declare the parties names, the places where, the times when, and how often haue you knowne any such meetings, assemblies, or conuen<g ref="char:EOLhyphen"/>ticles.</p>
+            <p n="25">
+               <label>Surpli<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Hood, &amp;c</label>
+               <hi>25</hi> Item, whether doth your Minister weare the Surplice whilest he is saying the publike praiers, and ministring the Sacraments: and if he be any Graduate, whether then doth he also we are vpon his Surplice, during the times aforesaid, such a hood as by the order of his Vniuersity is agréeable to his degrée?</p>
+            <p n="26">
+               <pb facs="tcp:27641:4"/>
+               <label>Catechize.</label>
+               <hi>26</hi> Item, whether doth your Minister on euery Sunday and Holiday before Euening praier for halfe an houre or more, examine and instruct the youth and ignorant persons of his parish, in the Ten Commandements, Articles of Beléefe, and in the Lords Prayer, as also in the Catechisme, set forth in the Booke of common Prayer: and whether doe all Fathers, Mothers, Masters, and Mistresses, cause their children, ser<g ref="char:EOLhyphen"/>uants and apprentises, to come thither to heare, and to be in<g ref="char:EOLhyphen"/>structed and taught therein: and those that do not their duties herein, you shall present their names.</p>
+            <p n="27">
+               <label>Vnlawfull so<g ref="char:EOLhyphen"/>lemnization of mariage.</label>
+               <hi>27</hi> Item, whether hath your Minister, without license from the Archbishop, the Bishop of the Diocesse, or his Chancellor, solemnized mariage betwixt any parties, the banes not being thrée seuerall Sundaies or Holidaies first published in time of Diuine Seruice, in the seuerall churches or chappels of their seuerall abode, according to the Booke of Common Prayer, and that also betwixt the houres of eight and twelue in the forenoone: and furthermore, whether hath your Mini<g ref="char:EOLhyphen"/>ster since the last Canons published, solemnized any mariage betwixt any persons, being vnder the age of one and twenty yéeres, although the banes be thrice asked, before such time as the parents haue made knowne vnto him their consent there<g ref="char:EOLhyphen"/>unto: and whether hath he maried any of another Diocesse, who are they, and by what authority, and when?</p>
+            <p n="28">
+               <label>Bid Holidaies and fasting daies.</label>
+               <hi>28</hi> Item, whether your Minister doth euery Sunday bid Holidaies, and fasting daies, as by the Books of Common Praier is appointed?</p>
+            <p n="29">
+               <label>Denounce excommuni<g ref="char:EOLhyphen"/>cate persons.</label>
+               <hi>29</hi> Item, whether doth your Minister euery six moneths, denounce in his Parish all such of his Parish, as doe perseuere in the sentence of excommunication, not séeking to be absol<g ref="char:EOLhyphen"/>ued? and whether hath he admitted into the Church, any per<g ref="char:EOLhyphen"/>son excommunicate, without a certificate of his absolution from the Ordinary, or his Substitute?</p>
+            <p n="30">
+               <label>Excommuni<g ref="char:EOLhyphen"/>cated persons not to be pre<g ref="char:EOLhyphen"/>sent at pub<g ref="char:EOLhyphen"/>like prayer in the Church.</label>
+               <hi>30</hi> Item, whether your Parson Vicar or Curate, hatly ce<g ref="char:EOLhyphen"/>lebrated and said diuine Seruice and praiers in the Church, when any person that he knew to be excommunicated, or de<g ref="char:EOLhyphen"/>nounced for an excommunicate person, was present in the same Church?</p>
+            <p n="31">
+               <label>Staying the publishing of excommuni<g ref="char:EOLhyphen"/>cation or sus<g ref="char:EOLhyphen"/>pensions.</label>
+               <hi>31</hi> Item, whether your Parson, Vicar, or Curate, of any
+<pb facs="tcp:27641:5"/>your churches or chappels, hauing receiued any excommuni<g ref="char:EOLhyphen"/>cation, suspension or aggrauation from his Ordinary, or his Substitute against any of their Parishioners, haue presumed to make stay of, and not published such excommunication, sus<g ref="char:EOLhyphen"/>pension or aggrauation, according to the tenor thereof, the next Sunday or Holiday after the receit of the same in your church or chappell at the time of diuine Seruice? if any be faul<g ref="char:EOLhyphen"/>ty herein, present their names, and how oft default hath béene made in that behalfe?</p>
+            <p n="32">
+               <label>Visit the sicke.</label>
+               <hi>32</hi> Item, whether is your Minister painfull in visiting the sicke, according to the Booke of common Praier?</p>
+            <p n="33">
+               <label>Fauourer of Recusants.</label>
+               <hi>33</hi> Item, whether is your Parson, Vicar, or Curate, su<g ref="char:EOLhyphen"/>spected to frequent, or to be ouer-conuersant with, or a fauou<g ref="char:EOLhyphen"/>rer of Recusants, whereby he is suspected not to bée sincere in Religion?</p>
+            <p n="34">
+               <label>Lay-persons executing the office of a Mi<g ref="char:EOLhyphen"/>nister in the Church.</label>
+               <hi>34</hi> Item, hath any presumed to execute the office of a Mi<g ref="char:EOLhyphen"/>nister or Deacon in any your churches, and to say and cele<g ref="char:EOLhyphen"/>brate the diuine Seruice there, or to serue she Cure of your Parish, not being a Minister or Deacon: and whether any Deacon hath presumed to minister the Sacraments in any your Churches, not hauing first receiued the full Orders of Priesthood: if yea, present what his name is, where he dwel<g ref="char:EOLhyphen"/>leth, and how often he hath offended herein?</p>
+            <p n="35">
+               <label>Register booke.</label>
+               <hi>35</hi> Item, whether is there in your church or chappell one parchment Register Booke prouided for Christnings, Mar<g ref="char:EOLhyphen"/>riages and Burials: and whether is the same duely and ex<g ref="char:EOLhyphen"/>actly kept according to the Constitutions in that behalfe pro<g ref="char:EOLhyphen"/>uided?</p>
+            <p n="36">
+               <label>Decency in apparell.</label>
+               <hi>36</hi> Item, whether doth your Minister vse such decency and comelinesse in his apparell, as by the <hi>74.</hi> Constitution is enioyned?</p>
+            <p n="37">
+               <label>Schoolmaster.</label>
+               <hi>37</hi> Item, doth any take vpon him to teach Schoole in your parish, without speciall licence of his Ordinary: and whether doth your Schoolemaster bring his schollers to the Church to heare diuine Seruice and Sermons: and whether doth he in<g ref="char:EOLhyphen"/>struct them in the Catechisme?</p>
+            <p n="38">
+               <label>Common Praier booke, &amp;c.</label>
+               <hi>38</hi> Item, whether haue you prouided the Booke of com<g ref="char:EOLhyphen"/>mon Praier, and the Bible of the new Translation lately set foorth by his Maiesties authority, and the Booke of Homilies:
+<pb facs="tcp:27641:5"/>and whether haue you in your Church or Chappell a Font of store set vp in the ancient vsuall place, a conuenient and decent Commu<g ref="char:EOLhyphen"/>nion Table, with a carpet of silke, or some other decent stuffe, and a faire linnen cloth to lay thereon at the Communion time: and whether is the same Table then placed in such conuenient sort with<g ref="char:EOLhyphen"/>in the Chancell, or Church, as that the Minister may be best heard in his prayer and administration, and that the greater rumber may communicate: and whether are the Ten Commandements set vpon the East end of your Church or Chappell, where the people may best sée and read them, and other sentences of holy Scriptures written on the walls also for that purpose?</p>
+            <p n="39">
+               <label>Things neces<g ref="char:EOLhyphen"/>sary for diuine Seruice.</label>
+               <hi>39</hi> Item, whether haue you a conuenient seat for your Minister to read seruice in, together with a comely Pulpit set vp in a conue<g ref="char:EOLhyphen"/>nient place, with a decent cloth or cushion for the same: a comely large Surplice, a faire Communion cup of gold, siluer, or other pure meltall, and couer agréeable for the same, with all other things and ornaments necessarie for the celebration of Diuine Seruice, and ad<g ref="char:EOLhyphen"/>ministration of the Sacraments?</p>
+            <p n="40">
+               <label>Reparation of the Church, Parsonage-house, &amp;c.</label>
+               <hi>40</hi> Item, whether are your Church or Chappels, with the Chan<g ref="char:EOLhyphen"/>cels thereof, and your Parsonage or Vicarage house, and all other housing thereto belonging, in good reparations, and decent and come<g ref="char:EOLhyphen"/>ly kept, as well within as without, the seats well maintained, a sure coffer with thrée locks and keyes, for the safe kéeping of your Regi<g ref="char:EOLhyphen"/>ster booke, your Church-yards well fenced and kept without abuse? if not, then through whose default, and what defects are th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rein?</p>
+            <p n="41">
+               <label>Gifts given to the vse of the Church.</label>
+               <hi>41</hi> Item, whether doe you know, or haue heard of any legacie by any mans will, or any gift otherwise giuen to the poore, to the Church, or any other holy vses, and not performed or bestowed according to his will and gift, and in whose hands the same doth now remaine?</p>
+            <p n="42">
+               <label>Recusants.</label>
+               <hi>42</hi> Item, how many inhabitants within your parish, men or women, aboue <hi>16.</hi> yéeres of age, be Popish Recusants, or doe refuse to frequent Diuine Seruice established by publike authoritie of this Realme, or to receiue the holy Communion, what be their names, and of what degrée, state or trade of life are they? you are to present them all of both sorts.</p>
+            <p n="43">
+               <label>How long they have bin Recusants.</label>
+               <hi>43</hi> Item, how long the said Popish Recusants haue obstirately abstained either from diuine seruice, or from the Communion, as is aforesaid: whether any long time, or only since his Maiesties raigne?</p>
+            <p n="44">
+               <pb facs="tcp:27641:6"/>
+               <label>Whether the Minister seeks to reclaime the Recusants.</label>
+               <hi>44</hi> Item, whether is your Minister a Preacher sufficiently qua<g ref="char:EOLhyphen"/>lifted: and if he be, whether doth he from time to time offer quiet and temperate conference to reclaime the Popish Recusants from their errors: and whether they, or any of them doe refuse such confe<g ref="char:EOLhyphen"/>rence with your Minister, or any o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Preacher, who shall present vnto them his diligence in that behalfe?</p>
+            <p n="45">
+               <label>Excommuni<g ref="char:EOLhyphen"/>cate person.</label>
+               <hi>45</hi> Item, what persons aforesaid within your Parish, either for the offence aforesaid, or for any other contumacie or crime, doe re<g ref="char:EOLhyphen"/>maine excommunicate, what be their names, and for what cause, and how long haue they so stood excommunicate?</p>
+            <p n="46">
+               <label>Church-war<g ref="char:EOLhyphen"/>dens &amp; Side<g ref="char:EOLhyphen"/>men.</label>
+               <hi>46</hi> Item, whether were you the Church wardens and Quest<g ref="char:EOLhyphen"/>men chosen by the consent of the Minister and Parishioners: and whether haue the Church-wardens before you, giuen vp a iust ac<g ref="char:EOLhyphen"/>count for their time, and deliuered to you their successors whatsoeuer money, or other things of right belonging to the Church, that was in their hands; and whether doe you, and euerie of you diligently sée, that all the Parishioners doe duely resort to their Church euerie Sunday and Holiday, and there continue the whole time of Diuine Seruice, and nore to walke or stand idle, or talking in the Church or Church porch, or Church-yard, during that time: and whether doe all the Parishioners and their families accordingly frequent their Parish Church, and there behaue themselues soberly, attentiuely, and decently, all the time of Diuine Seruice, yea, or no? if no, then you shall present their names.</p>
+            <p n="47">
+               <label>All resort to Church, and receiue thrice a yeere.</label>
+               <hi>47</hi> Item, whether doe all persons aboue the age of sixtéene yéeres, vsually resort to heare diuine seruice vpon Sundaies and Holidaies appointed: and whether hath each one of your Parishi<g ref="char:EOLhyphen"/>oners (being aboue the age of sixtéene yéeres aforesaid) recei<g ref="char:EOLhyphen"/>ued the Holy Communion thrice this last yéere, and chiefly once at Easter last, in your Parish Church knéeling? if no, then you shall present their names which haue not so done.</p>
+            <p n="48">
+               <label>Parish Clarke</label>
+               <hi>48</hi> Item, whether haue you a fit Parish Clarke, aged twen<g ref="char:EOLhyphen"/>tie yéeres at least, of honest conuersation, and sufficient for rea<g ref="char:EOLhyphen"/>ding and writing: and whether he be paid his wages without fraud, according to the most ancient custome of your Parish: if not, then by whom is he so defrauded and denied? and whe<g ref="char:EOLhyphen"/>ther he be chosen by the Parson, or Vicar, or by whom?</p>
+            <p n="49">
+               <label>Table for Ma<g ref="char:EOLhyphen"/>riages.</label>
+               <hi>49</hi> Item, whether haue any in your Parish béene maried within the prohibited degrées, forbidden by the Law of God,
+<pb facs="tcp:27641:6"/>and expressed in a certaine Table, published by authoritie in the yéere <hi>1583.</hi> if yea, then shall you present their names, and whether haue you the said Table publikely set vp in your Church, and fastned to some conuenient place there?</p>
+            <p n="50">
+               <label>Persons di<g ref="char:EOLhyphen"/>uorced.</label>
+               <hi>50</hi> Item, whether doth any heretofore diuorced, kéepe companie with any other at bed and at boord, what be their names, when and where were they maried?</p>
+            <p n="51">
+               <label>To giue thanks after child-birth.</label>
+               <hi>51</hi> Item, doth your Minister vse the forme of thanksgiuing to women after childbirth: and whether hath he admitted any thereunto that was begotten with childe in adulterie, or forni<g ref="char:EOLhyphen"/>cation, without licence of his Ordinary? And whether haue any maried wiues refused to come to Church according to the Booke of Common Prayer, to giue God thankes after child birth, in such vsuall and decent manner, as anciently hath béene accustomed? if any be faultie herein, you shall pre<g ref="char:EOLhyphen"/>sent their names.</p>
+            <p n="52">
+               <label>Incontinent persons, drun<g ref="char:EOLhyphen"/>kards, swea<g ref="char:EOLhyphen"/>rers, &amp;c.</label>
+               <hi>52</hi> Item, whether haue you any in your parish, to your knowledge, or by common fame and report, which haue com<g ref="char:EOLunhyphen"/>mitted adulterie, fornication, or incest, which haue not beene publikely punished to your knowledge: if yea, then with whom: or any man that hath attempted the chastitie of any woman, or hath sollicited any woman, to the intent to haue the carnall knowledge of her body, or any in your parish to be Bawds, or receiuers of any such persons, or suspected of any the crimes aforesaid: are there any that are, or by common fame and report are reputed and taken to be such persons, or be common drunkards, blasphemers of Gods holy name, com<g ref="char:EOLhyphen"/>mon &amp; vsuall swearers, filthy speakers, vsurers, symoniacall persons, fighters, brawlers, or quarrellers in Church, or Churchyard? you shall not faile to present their names.</p>
+            <p n="53">
+               <label>Harbouring incontinent persons.</label>
+               <hi>53</hi> Item, whether haue any in your parish receiued or har<g ref="char:EOLhyphen"/>boured any woman begotten with childe out of wedlock, and suffered them to depart againe without punishment first infli<g ref="char:EOLhyphen"/>cted on them by their Ordinary: you shall truly present as well the party harbouring, as harboured, and who is suspe<g ref="char:EOLhyphen"/>cted to be the father of her childe?</p>
+            <p n="54">
+               <label>Wills.</label>
+               <hi>54</hi> Item, whether are there in your parish any Wills not yet proued: you shall not faile to present the Executors, and all others faultie and culpable therein.</p>
+            <p n="55">
+               <pb facs="tcp:27641:7"/>
+               <label>Witches, and such like.</label>
+               <hi>55</hi> Item, whether you know in any your Parishes and Witches, Southsayers, Coniurers, Charmers, Sorcerers, or any that be suspected for such persons: present their names, and what speciall hurt they haue committed.</p>
+            <p n="56">
+               <label>Hospitals, and Almeshouses.</label>
+               <hi>56</hi> Item, whether there be any Hospitals or Almeshouses in your parish, and whether the same be vsed, kept, &amp; ordered according to the foundations, lawes, and statutes thereof, and in whom the fault is that they are not so vsed and kept?</p>
+            <p n="57">
+               <hi>57</hi> Item,<label>Perambula<g ref="char:EOLhyphen"/>tion.</label> whether your Parson, Vicar, or Curate, doth vsually euery yéere in the Rogation wéeke, goe with the Pari<g ref="char:EOLhyphen"/>shioners in the perambulations about the parish, according to the custome and vse of ancient time, and doth say the prayers and suffrages appointed for the same?</p>
+            <p n="58">
+               <label>Fift of August to be kept Holiday.</label>
+               <hi>58</hi> Item, whether is the fift day of August (being the day of the Kings Maiesties most happy deliuerance from the trai<g ref="char:EOLhyphen"/>terous and bloudy attempt of the Earle <hi>Gowry,</hi> and his bro<g ref="char:EOLhyphen"/>ther, with their adherents) obserued and kept festiuall within your parish, with prayer and thanksgiuing, and with cessation from labour, as by publike authority it is appointed: and whether haue you in your parish the booke published by autho<g ref="char:EOLhyphen"/>ritie, which containeth the forme of praier with thanksgiuing appointed for that day:<label>Gun-powder Treason, Nouemb. 5.</label> and whether is the fift day of Nouem<g ref="char:EOLhyphen"/>ber obserued and kept festiuall, as by a speciall act of Parlia<g ref="char:EOLhyphen"/>ment in that case prouided, is appointed?</p>
+            <p n="59">
+               <label>Any thing else.</label>
+               <hi>59</hi> Doe you know of any other matter of Ecclesiasticall cognizance worthy the presentment in your iudgement, which you hold fit to be reformed? if you doe, you shall likewise pre<g ref="char:EOLhyphen"/>sent the same by vertue of your Oathes aforesaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
